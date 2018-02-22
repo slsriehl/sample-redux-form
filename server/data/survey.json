@@ -1,0 +1,45 @@
+{
+	"name": "survey",
+	"structure": [{
+		"type": "dropdown",
+		"label": "Type of Pet",
+		"name": "pet-type",
+		"fields": [{
+			"type": "select",
+			"fields": [{
+				"type": "option",
+				"label": "Cat"
+			}, {
+				"type": "option",
+				"label": "Dog"
+			}, {
+				"type": "option",
+				"label": "Other"
+			}, {
+				"type": "option",
+				"label": "None"
+			}]
+		}, {
+			"type": "single-line-text",
+			"label": "Pet's Name",
+			"name": "pets-name",
+			"fields": [{
+				"type": "input"
+			}]
+		}, {
+			"type": "radio-buttons",
+			"label": "Pet Food",
+			"name": "pet-food",
+			"fields": [{
+				"type": "input",
+				"label": "Purina"
+			}, {
+				"type": "input",
+				"label": "Some Organic Shit"
+			}, {
+				"type": "input",
+				"label": "The Cheapest Evar"
+			}]
+		}]
+	}]
+}

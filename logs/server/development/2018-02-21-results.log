@@ -1,0 +1,28 @@
+{"level":"info","message":"Node environment: development","timestamp":"16:46:12"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"16:46:13"}
+{"level":"info","message":"Node environment: development","timestamp":"16:57:04"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"16:57:05"}
+{"level":"info","message":"Node environment: development","timestamp":"16:59:29"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"16:59:30"}
+{"level":"info","message":"Node environment: development","timestamp":"17:01:19"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"17:01:20"}
+{"level":"info","message":"Node environment: development","timestamp":"17:02:29"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"17:02:29"}
+{"level":"info","message":"Node environment: development","timestamp":"17:03:05"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"17:03:05"}
+{"level":"info","message":"Node environment: development","timestamp":"17:03:22"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"17:03:23"}
+{"level":"info","message":"/","timestamp":"17:03:28"}
+{"level":"info","message":"hitting req auth no","timestamp":"17:03:28"}
+{"level":"info","message":"/robots.txt","timestamp":"17:03:29"}
+{"level":"info","message":"hitting req auth no","timestamp":"17:03:29"}
+{"level":"info","message":"/favicon.ico","timestamp":"17:03:30"}
+{"level":"info","message":"hitting req auth no","timestamp":"17:03:30"}
+{"level":"info","message":"Node environment: development","timestamp":"17:57:59"}
+{"level":"info","message":"express: development server listening to your mom on PORT: 3000","timestamp":"17:57:59"}
+{"level":"info","message":"/survey","timestamp":"17:58:03"}
+{"level":"info","message":"hitting req auth no","timestamp":"17:58:03"}
+{"level":"info","message":"/","timestamp":"17:58:17"}
+{"level":"info","message":"hitting req auth no","timestamp":"17:58:17"}
+{"level":"info","message":"/api/user","timestamp":"17:58:19"}
+{"level":"info","message":"hitting req auth no","timestamp":"17:58:19"}
